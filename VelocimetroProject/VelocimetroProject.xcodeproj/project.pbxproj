@@ -1,0 +1,72 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		0CAB97BA1D7D50B800DEB046 /* velocimetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = velocimetro.playground; path = ../Velocimetro/velocimetro.playground; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		0CAB97B31D7D50A300DEB046 = {
+			isa = PBXGroup;
+			children = (
+				0CAB97BA1D7D50B800DEB046 /* velocimetro.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		0CAB97B41D7D50A300DEB046 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+			};
+			buildConfigurationList = 0CAB97B71D7D50A300DEB046 /* Build configuration list for PBXProject "VelocimetroProject" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 0CAB97B31D7D50A300DEB046;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		0CAB97B81D7D50A300DEB046 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		0CAB97B91D7D50A300DEB046 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0CAB97B71D7D50A300DEB046 /* Build configuration list for PBXProject "VelocimetroProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0CAB97B81D7D50A300DEB046 /* Debug */,
+				0CAB97B91D7D50A300DEB046 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0CAB97B41D7D50A300DEB046 /* Project object */;
+}
